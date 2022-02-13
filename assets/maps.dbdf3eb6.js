@@ -1,1 +1,0 @@
-import{_ as e}from"./index.ea7afb22.js";import{o as r,e as o}from"./vendor.d26658d0.js";const a={};function n(c,s){return r(),o("p",null,"\u5730\u56FE")}var f=e(a,[["render",n]]);export{f as default};

@@ -1,1 +1,0 @@
-import{o as n,e as a}from"./vendor.592e9f88.js";var s=(e,r)=>{const t=e.__vccOpts||e;for(const[o,c]of r)t[o]=c;return t};const _={};function f(e,r){return n(),a("p",null,"\u5C1A\u5728\u7814\u53D1")}var p=s(_,[["render",f]]);export{p as default};
