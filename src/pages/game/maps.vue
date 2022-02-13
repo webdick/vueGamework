@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    <p>地图</p>
+    <p>尚在研发</p>
 </template>
 
 <style>

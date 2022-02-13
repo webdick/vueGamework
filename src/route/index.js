@@ -6,16 +6,15 @@ const routes = [
         component:() => import('@/pages/index.vue'),
     },
     {
-        path:'/config',
-        component:() => import('@/pages/config.vue'),
+        path:'/maps',
+        component:() => import('@/pages/game/maps.vue'),
     },
     {
         path:'/chat',
-        component:() => import('@/pages/game/chat.vue'),
-    },
-    {
-        path:'/maps',
-        component:() => import('@/pages/game/maps.vue'),
+        component:() => import('@/pages/demo.vue'),
+    },{
+        path:'/role',
+        component:() => import('@/pages/role.vue'),
     },
 ];
 
